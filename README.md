@@ -13,3 +13,5 @@ pirate stealer is a discord token grabber that grab :
 - ip 
 
 btw i am not the author of pirate stealer the true author is Stanley 
+
+i am not responsible for what you are doing with this "tool"
